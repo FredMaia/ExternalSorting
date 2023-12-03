@@ -11,7 +11,7 @@ This a group project focused on implementing external sorting for binary files. 
 ## How to run it
 
 ```
- g++ -Wall ./main.cpp -o exec.exe
+ g++ -Wall ./(file_name).cpp -o exec.exe
 ./exec
 ```
 
