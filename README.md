@@ -19,23 +19,3 @@ This a group project focused on implementing external sorting for binary files. 
 
 [Gabriel Ferreira](https://github.com/Ferreira327)<br>
 [Guilherme Azevedo](https://github.com/Gui-L-Azevedo)
-
-
-
-# External Sorting for Large Data Sets Project
-
-## Description
-
-## Key Features
-- **Efficient Sorting:** Optimized algorithm to minimize the number of read and write operations, ensuring effective performance on large volumes of data.
-
-- **Handling Large Files:** Capability to handle data files that do not fit into main memory, efficiently sorting through sequential read and write operations.
-
-- **Custom Configurations:** Flexibility to configure parameters such as block size for read/write, input/output file paths, among others.
-
-- **Detailed Reports:** Generation of detailed reports on algorithm performance, facilitating analysis and optimization.
-
-## How to Use
-1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/your-username/external-sorting.git
